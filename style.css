@@ -214,7 +214,6 @@ nav{
   -moz-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
-  width: 10%;
 }
 #Who div .btns button:hover {
   background-color: black;
@@ -564,4 +563,6 @@ footer{
   #contact .item1{
     width: 100%;
 }
+
 }
+  
